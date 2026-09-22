@@ -1,5 +1,5 @@
 ###### STRUCTURE.md >> markdown 
-
+```text
 ArmeeDeTerre/
 │── README.md
 │── LICENSE.md
@@ -11,3 +11,4 @@ ArmeeDeTerre/
 │   └── quickdiag.sh
 └── docs/
     └── SITREP.md
+```
