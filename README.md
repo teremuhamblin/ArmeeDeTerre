@@ -14,7 +14,18 @@ status.sh
 - Affichage style *poste de commandement*
 - Résultat net et immédiat
 
+---
 ### Licence
 ```md
 Voir LICENSE
 ```
+---
+```text
+
+      /\        ARMEE DE TERRE
+     /  \       TACTIQUE - Ops
+    / /\ \      ---------------
+   / ____ \     SYSTEM MODULES
+  /_/    \_\    
+```
+---
