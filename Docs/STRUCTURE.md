@@ -2,7 +2,7 @@
 ```text
 ArmeeDeTerre/
 │── README.md
-│── LICENSE.md
+│── LICENSE
 │── status.sh
 │── assets/
 │   └── badges.md
@@ -10,5 +10,5 @@ ArmeeDeTerre/
 │   ├── tactical_status.sh
 │   └── quickdiag.sh
 └── docs/
-    └── SITREP.md
+    └── sitrep.md
 ```
